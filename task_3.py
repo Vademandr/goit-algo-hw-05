@@ -148,5 +148,4 @@ def print_results(results):
                 print(f"    {algo}: {time:.6f} seconds")
         print()
 
-
 print_results(results)
